@@ -2,15 +2,15 @@
 Это мой блок.
 
 
-[Mediumra költöztem](https://thebojda.github.io/my-wordpress-blog/archives/727)
+[Я перешел на Медиум](https://thebojda.github.io/my-wordpress-blog/archives/727)
 
-[Megaagyak, absztrakt evolúció és a konzisztencia gépezet, avagy hogyan építsünk szimulált világokat](https://thebojda.github.io/my-wordpress-blog/archives/645)
+[Мегамозги, абстрактная эволюция и машина согласованности, или как строить симулированные миры](https://thebojda.github.io/my-wordpress-blog/archives/645)
 
-[Adósság alapú pénz, bankrendszer nélkül](https://thebojda.github.io/my-wordpress-blog/archives/706)
+[Деньги на основе долга без банковской системы](https://thebojda.github.io/my-wordpress-blog/archives/706)
 
-[Hogyan működik a pénz?! (röviden és érthetően)](https://thebojda.github.io/my-wordpress-blog/archives/700)
+[Как работают деньги?! (кратко и понятно)](https://thebojda.github.io/my-wordpress-blog/archives/700)
 
-[TrustNet (online bizalom hálózat a megosztáson alapuló gazdaság élénkítése érdekében)](https://thebojda.github.io/my-wordpress-blog/archives/695)
+[TrustNet (онлайн-сеть доверия для стимулирования экономики совместного использования)](https://thebojda.github.io/my-wordpress-blog/archives/695)
 
 [ICO (Initial coin offering) - a startup finanszírozás új, blockchain alapú formája](https://thebojda.github.io/my-wordpress-blog/archives/690)
 
