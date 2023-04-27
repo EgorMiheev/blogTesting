@@ -1,6 +1,6 @@
 
-# my-wordpress-blog
-This is a backup of my Wordpress blog. (http://lf.estontorise.hu/)
+# Мой блог
+Это мой блок.
 
 
 [Mediumra költöztem](https://thebojda.github.io/my-wordpress-blog/archives/727)
